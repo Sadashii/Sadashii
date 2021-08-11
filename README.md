@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋 I'm Tanishq</h1>
 <hr>
-<h2 align='center'>Full-stack developer (Python, HTML, CSS, Js, React) from India</h2>
+<h2 align='center'>Full-stack developer from India</h2>
 
 ### Quote of the day
 > Every master was once a beginner
@@ -55,3 +55,4 @@ class Tanishq:
 ```
         
         
+<p align='center'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
