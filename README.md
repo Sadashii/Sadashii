@@ -17,10 +17,10 @@ I enjoy the challenge of creating complex applications and experiences that are 
 - ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS games.
 
 ### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=prussian&count_private=true" alt="Sadashii" />
-<br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=prussian&count_private=true" alt="Sadashii" /></p>
 
-<p align='center'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
+
+<p align='left'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
 
 
 ### PS
