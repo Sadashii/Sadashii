@@ -1,58 +1,27 @@
 <h1 align='center'>Hi there 👋 I'm Tanishq</h1>
 <hr>
-<h2 align='center'>Full-stack developer from India</h2>
+<h2 align='center'>Fullstack developer messing around the internet.</h2>
+I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.
+
 
 ### Quote of the day
 > Every master was once a beginner
 
-### More about me
-```py
-import contact
-import extras
+### Others
+- 👨 Check out my portfolio at [https://sadashi.tech](https://sadashi.tech) (currently being developed).
 
+- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express Mongo), React Native and Python.
 
-class Tanishq:
-    def __init__(self) -> None:
-        # Personal Information
-        self.name = "Tanishq Sangwan"
-        self.birthday = "07/07/2006" 
-        self.pronouns = "He/Him"
-        
-        # Interests and About
-        self.loves_to = [
-            "Code",
-            "Mathematics",
-            "Guitar",
-            "10pm conversations"
-        ]
-        self.likes_to = [
-            "Learn new skills"
-        ]
-        self.learning = ["Ethical Hacking"]
-        self.active_on = [contact.DISCORD]
-        
-        self.programming_portfolio = {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "branches": ["Task Automation", "Web Development"],
-            "frontend": {
-                "css": ["Bootstrap", "Animate.css"],
-                "js": ["React"]
-            }
-            "backend": ["Flask", "FastAPI"],
-            "databases": {
-                "SQL": ["SQL", "PostgreSQL", "MySQL"]
-                "NoSQL": ["MongoDB"]
-            }
-        }
-        
-        self.contacts = {
-          "Email": "tanishqsangwan7@gmail.com",
-          "Github": "https://github.com/Sadashii",
-          "Discord": "discord": "https://discord.com/users/546384046394048538"
-        }
-        
-        self.fun_fact = "The eyes have a seperate immune system. To read more, log onto https://some.website"
-```
-        
-        
+- 👨‍💻 Currently working as a intern with [https://znotes.org](https://znotes.org)
+
+- ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS games.
+
+### Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=prussian&count_private=true" alt="Sadashii" />
+<br>
+
 <p align='center'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
+
+
+### PS
+Most of my contributions are to private repositories so don't go onto my repositores.
