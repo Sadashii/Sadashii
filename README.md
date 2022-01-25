@@ -18,8 +18,7 @@ I enjoy the challenge of creating complex applications and experiences that are 
 
 ### Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=prussian&count_private=true" alt="Sadashii" /></p>
-![](https://wakatime.com/badge/user/ce037dec-f387-42b8-b6e4-f638b1f344a4.svg?style=for-the-badge)
-
+<a href="https://wakatime.com/@ce037dec-f387-42b8-b6e4-f638b1f344a4"><img src="https://wakatime.com/badge/user/ce037dec-f387-42b8-b6e4-f638b1f344a4.svg?style=for-the-badge" alt="Total time coded since Jan 9 2022" /></a>
 
 <p align='left'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
 
