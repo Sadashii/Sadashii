@@ -1,6 +1,7 @@
 <h1 align='center'>Hi there 👋 I'm Tanishq</h1>
 <hr>
 <h2 align='center'>Hobbyist programmer messing around the internet.</h2>
+
 ### Me in a nutshell
 I'm 15 from India who started coding as a school subject and now loves it more than anything. I'm a hobbyist (since I have yet not recieved a degree) programmer who's doing stuff here and there!
 
