@@ -1,23 +1,22 @@
 <h1 align='center'>Hi there 👋 I'm Tanishq</h1>
 <hr>
-<h2 align='center'>Fullstack developer messing around the internet.</h2>
-I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.
+<h2 align='center'>Hobbyist programmer messing around the internet.</h2>
+### Me in a nutshell
+I'm 15 from India who started coding as a school subject and now loves it more than anything. I'm a hobbyist (since I have yet not recieved a degree) programmer who's doing stuff here and there!
 
+### My motivation
+> Every master was once a beginner. Every pro was once an amateur.
+> Life has ups and downs and downs and ups, but because of the downs, you appreciate the ups. And it's because of the ups that you don't give up hope in the downs. But the point is, ups come with downs, and downs come with ups. That's life.
 
-### Quote of the day
-> Every master was once a beginner
-
-### Others
-- 👨 Check out my portfolio at [https://sadashi.tech](https://sadashi.tech) (currently being developed).
-
-- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express Mongo), React Native and Python.
-
-- 👨‍💻 Currently working as a intern with [https://znotes.org](https://znotes.org)
-
-- ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS games.
+### Technologies and Tools
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 ### Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=prussian&count_private=true" alt="Sadashii" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=cobalt&count_private=true&?border_radius=0" alt="Sadashii" /></p>
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sadashi&layout=compact&theme=cobalt)
+
+
+
 <a href="https://wakatime.com/@ce037dec-f387-42b8-b6e4-f638b1f344a4"><img src="https://wakatime.com/badge/user/ce037dec-f387-42b8-b6e4-f638b1f344a4.svg?style=for-the-badge" alt="Total time coded since Jan 9 2022" /></a>
 
 <p align='left'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
