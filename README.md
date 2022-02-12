@@ -12,8 +12,10 @@ I'm 15 from India who started coding as a school subject and now loves it more t
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 ### Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=cobalt&count_private=true&?border_radius=0" alt="Github Stats" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadashi&layout=compact&theme=cobalt" alt="Wakatime Stats" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=cobalt&count_private=true&?border_radius=0" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadashi&layout=compact&theme=cobalt" alt="Wakatime Stats" />
+</p>
 
 
 
