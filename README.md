@@ -14,8 +14,8 @@ I'm 15 from India who started coding as a school subject and now loves it more t
 
 ### Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=cobalt&count_private=true&?border_radius=0" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadashi&layout=compact&theme=cobalt" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadashii&show_icons=true&locale=en&theme=cobalt&count_private=true&custom_title=Github%20Stats" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadashi&layout=compact&theme=cobalt&custom_title=Last%20week%27s%20stats" alt="Wakatime Stats" />
 </p>
 
 <p align='left'>Thank you for reading! ❤️ See you in my journey! Peace out! ✌️</p>
