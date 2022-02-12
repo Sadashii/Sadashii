@@ -1,5 +1,4 @@
 <h1 align='center'>Hi there 👋 I'm Tanishq</h1>
-<hr>
 <h2 align='center'>Hobbyist programmer messing around the internet.</h2>
 
 ### Me in a nutshell
