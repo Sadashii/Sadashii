@@ -7,6 +7,7 @@ I'm 15 from India who started coding as a school subject and now loves it more t
 
 ### My motivation
 > Every master was once a beginner. Every pro was once an amateur.
+> 
 > Life has ups and downs and downs and ups, but because of the downs, you appreciate the ups. And it's because of the ups that you don't give up hope in the downs. But the point is, ups come with downs, and downs come with ups. That's life.
 
 <!-- ### Technologies and Tools -->
