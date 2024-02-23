@@ -9,13 +9,6 @@
   </a>
 </p>
 
-
-### Motivation
-> Every master was once a beginner. Every pro was once an amateur.
-
-> Life has ups and downs and downs and ups, but because of the downs, you appreciate the ups. And it's because of the ups that you don't give up hope in the downs. But the point is, ups come with downs, and downs come with ups. That's life.
-
-
 <details>
   <summary>🛠 My Tech stack!</summary>
 
